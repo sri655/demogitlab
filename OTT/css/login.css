@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: rgb(50, 18, 80);
+
+}
+.loginbox{
+    background-color: beige;
+    margin-top: 200px;
+    color: white;
+    background-color: red;
+}

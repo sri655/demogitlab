@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Fast X",
+        "image":"./images/english1.png"
+    },
+    {
+        "name":"City Of Gold",
+        "image":"./images/english2.png"
+    },
+    {
+        "name":"Love Againg",
+        "image":"./images/english3.png"
+    },
+    {
+        "name":"Jumanji",
+        "image":"./images/english4.png"
+    },
+    {
+        "name":"Jhon Wick",
+        "image":"./images/english5.png"
+    },
+    {
+        "name":"The God Father",
+        "image":"./images/english6.png"
+    }
+    
+    
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Full House",
+        "image":"./images/fullhouse.png"
+    },
+    {
+        "name":"Naver Have I Ever",
+        "image":"./images/Naver have i ever.png"
+    },
+    {
+        "name":"The Office",
+        "image":"./images/the office.png"
+    },
+    {
+        "name":"Funny Woman",
+        "image":"./images/funnywoman.jpg"
+    },
+    {
+        "name":"Big Bang",
+        "image":"./images/BigBang.png"
+    },
+    {
+        "name":"Free Guy",
+        "image":"./images/freeguy.png"
+    }
+    
+    
+]

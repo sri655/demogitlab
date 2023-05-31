@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+       "image":"./images/Krishna.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name" :"King Krishna"
+    },
+    {
+        "id":1,
+       "image":"./images/Thorrr.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name":"Thor"
+
+    },
+    {
+        "id":1,
+       "image":"./images/iron.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name" : "IRON MAN"
+    },
+    {
+        "id":1,
+       "image":"./images/Bhedia.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name" :"Bhedia"
+    },
+    {
+        "id":1,
+       "image":"./images/bat.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name" :"BATMAn"
+    },
+    {
+        "id":1,
+       "image":"./images/jumanji.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name":"Jumanji"
+    },
+    {
+        "id":1,
+       "image":"./images/Thorrr.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name" :"Thor"
+    },
+    {
+        "id":1,
+       "image":"./images/dhoom.png",
+       "video":"video/Thor _ Marvel Intro _ 2011 _ HD.mp4" ,
+       "name":"Dhoom"
+    }
+  
+
+    
+]

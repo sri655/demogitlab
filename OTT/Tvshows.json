@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Nagin",
+        "image":"./images/nagin.png"
+    },
+    {
+        "name":"Mahabharat",
+        "image":"./images/mahabharat.png"
+    },
+    {
+        "name":"Ramayan",
+        "image":"./images/ramayan.png"
+    },
+    {
+        "name":"Tandav",
+        "image":"./images/Tandav.png"
+    },
+    {
+        "name":"Farzi",
+        "image":"./images/farzi.png"
+    },
+    {
+        "name":"The Empire",
+        "image":"./images/Theempire.png"
+    },
+    {
+        "name":"Villain",
+        "image":"./images/action8.png"
+    }
+    
+]

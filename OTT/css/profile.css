@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(28, 4, 53);
+}
+.whole{
+    height: 80px;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Upper{
+    margin: auto    ;
+    height: 50%;
+    width:97%;
+    /* border: 1px solid red; */
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+ 
+}
+
+.buy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    width: 10%;
+    /* border: 1px solid blue; */
+    height: 100%;
+    position: relative;
+    width: 30%;
+    
+}
+.down{
+    height: 50%;
+    width:100%;
+    /* border: 1px solid rgb(0, 8, 255); */
+}
+
+.buyplan{
+   
+    padding: 3px;
+    background-color: rgb(183, 13, 13);
+    border-radius: 10%;
+   
+
+  
+}
+.rig{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    width: 30%;
+    /* border: 1px solid blue; */
+    height: 100%;
+    position: relative;
+}
+.down{
+    /* color:white; */
+    margin: auto    ;
+    height: 50%;
+    width:97%;
+    /* border: 1px solid red; */
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.fa-camera-movie{
+    color:white;
+}
+
+.navlink{
+    cursor: pointer;
+    text-align: center;
+}
+.test{
+    height: 900px;
+    width: 20px;
+    background-color: red;
+}

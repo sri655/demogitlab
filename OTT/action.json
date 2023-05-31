@@ -1,0 +1,31 @@
+[
+    {
+        "name":"The Cahse",
+        "image":"./images/action1.png"
+    },
+    {
+        "name":"Gamer",
+        "image":"./images/action2.png"
+    },
+    {
+        "name":"Hobs And Shaws",
+        "image":"./images/action3.png"
+    },
+    {
+        "name":"Walking Tall",
+        "image":"./images/action4.png"
+    },
+    {
+        "name":"Hero 3",
+        "image":"./images/action6.png"
+    },
+    {
+        "name":"Tiger Zinda HAi",
+        "image":"./images/action7.png"
+    },
+    {
+        "name":"Villain",
+        "image":"./images/action8.png"
+    }
+    
+]

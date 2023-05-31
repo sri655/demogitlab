@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Hera-Pheri",
+        "image":"./images/comedy1.png"
+    },
+    {
+        "name":"Phir-Hera-Pheri",
+        "image":"./images/comedy2.png"
+    },
+    {
+        "name":"jhonny Ehighreborn",
+        "image":"./images/comedy3.png"
+    },
+    {
+        "name":"laden liver Active",
+        "image":"./images/comedy4.png"
+    },
+    {
+        "name":"Game Night",
+        "image":"./images/comedy5.png"
+    },
+    {
+        "name":"Dumb and Dumber",
+        "image":"./images/comedy6.png"
+    },
+    {
+        "name":"Last in Thailand",
+        "image":"./images/comedy7.png"
+    },
+    {
+        "name":"The Man From Toronto",
+        "image":"./images/comedy8.png"
+    }
+]

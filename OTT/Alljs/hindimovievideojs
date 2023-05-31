@@ -1,0 +1,58 @@
+let videoss=[
+    {
+      "id":"1",
+      "name":"Tu Jhoothi Main Makkaar",
+      
+      "link":"./video/Tu Jhoothi Main Makkaar _ Official Trailer _ Ranbir Kapoor, Shraddha Kapoor _ Netflix India.mp4"
+    },
+   {
+    "id":"3",
+    "name":"Zara Hatke Zara Bachke",
+   
+    "link":"./video/Zara Hatke Zara Bachke - Official Trailer _ Vicky K & Sara Ali K _ Dinesh V _ Laxman U _ 2nd June 23.mp4"
+   },
+{
+    "id":"3",
+    "name":"Kisi Ka Bhai Kisi Ki Jaan Teaser",
+    "link":"./video/Kisi Ka Bhai Kisi Ki Jaan Teaser _ Salman Khan, Venkatesh D, Pooja H _ Farhad Samji _ EID 2023.mp4"
+}
+
+
+// ${value.name}
+
+  ];
+let container=document.querySelector(".container");
+
+  videoss.forEach((value,index)=>{let data=`<div  class="video"><video class="vid" height="60%" width="100% class="in" src="${value.link}"></video><h1 class="h1">${value.name}</h1></div>`
+
+  container.innerHTML +=data;
+//   container.innerHTML +=h1;
+  console.log(value.name);
+console.log(value)});
+
+
+
+
+
+
+
+let allvideo=document.querySelectorAll(".video  video");
+let small
+let mainvideo=document.querySelector(".mainvideo");
+let popup=document.querySelector(".popup");
+allvideo.forEach((value)=>{
+    value.addEventListener("click",function(){
+        
+        mainvideo.src=value.src;
+        popup.style.display="block";
+
+    })
+})
+
+let close=document.querySelector(".close");
+close.addEventListener("click",function(){
+    popup.style.display="none";
+   mainvideo.pause();
+})
+
+

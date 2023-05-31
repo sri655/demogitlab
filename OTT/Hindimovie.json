@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Krrish",
+        "image":"./images/hindi1.png"
+    },
+    {
+        "name":"Dhol",
+        "image":"./images/hindi2.png"
+    },
+    {
+        "name":"Bazigar",
+        "image":"./images/hindi3.png"
+    },
+    {
+        "name":"Raone",
+        "image":"./images/hindi4.png"
+    },
+    {
+        "name":"Pathana",
+        "image":"./images/hindi5.png"
+    },
+    {
+        "name":"Tiger",
+        "image":"./images/hindi6.png"
+    }
+    
+    
+]
